@@ -174,7 +174,7 @@ export default {
       this.isLoading = true;
       try {
         const payload = {
-          access_key: "b673cec6-02d7-4ef4-baf2-a74b252c02f5", // Web3Forms Public Key
+          access_key: "3c025a31-6512-4329-8e9f-ce95c3c8ff28", // Web3Forms Public Key
           name: this.formData.name,
           email: this.formData.email,
           phone: this.formData.phone,
